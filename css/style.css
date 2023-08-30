@@ -81,6 +81,21 @@ li {
     color: #434851;
 }
 
+li.circle {
+    border-bottom: 1px solid #f6f8f9;
+}
+
+li .circle::before {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 10px;
+    border-radius: 50%;
+    line-height: 15px;
+    font-size: 10px;
+    text-align: center;
+}
+
 .tag {
     padding: 5px 10px;
     border-radius: 10px;
