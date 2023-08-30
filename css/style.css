@@ -80,3 +80,11 @@ li {
     padding: 10px 0;
     color: #434851;
 }
+
+.tag {
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 10px;
+    color: white;
+    background-color: #09a9ed;
+}
