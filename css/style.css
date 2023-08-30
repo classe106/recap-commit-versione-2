@@ -27,3 +27,11 @@ header {
     font-weight: 900;
     vertical-align: middle;
 }
+
+/* Content style */
+.container {
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 5px;
+    background-color: white;
+}
