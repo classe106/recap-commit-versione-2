@@ -104,8 +104,8 @@ li .circle.checked::before {
 
 li .circle.delete::before {
     content: '\2573';
-    border: 1px solid ff0000;
-    color: ff0000;
+    border: 1px solid #ff0000;
+    color: #ff0000;
 }
 
 .tag {
