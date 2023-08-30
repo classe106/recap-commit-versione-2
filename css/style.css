@@ -102,6 +102,12 @@ li .circle.checked::before {
     color: #2cc6ab;
 }
 
+li .circle.delete::before {
+    content: '\2573';
+    border: 1px solid ff0000;
+    color: ff0000;
+}
+
 .tag {
     padding: 5px 10px;
     border-radius: 10px;
