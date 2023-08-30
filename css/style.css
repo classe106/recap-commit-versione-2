@@ -86,5 +86,8 @@ li {
     border-radius: 10px;
     font-size: 10px;
     color: white;
+}
+
+.tag-type-1 {
     background-color: #09a9ed;
 }
