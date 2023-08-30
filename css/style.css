@@ -35,3 +35,38 @@ header {
     border-radius: 5px;
     background-color: white;
 }
+
+.top {
+    height: 50px;
+    padding: 0 50px;
+    border-bottom: 2px solid #f6f8f9;
+    line-height: 50px;
+}
+
+.btn {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn a {
+    text-decoration: none;
+}
+
+.btn-filled {
+    border: 1px solid #14aaf5;
+    background-color: #14aaf5;
+}
+
+.btn-filled a {
+    color: white;
+}
+
+.btn-empty {
+    border: 1px solid #14aaf5;
+    background-color: #14aaf5;
+}
+
+.btn-empty a {
+    color: #c4cbd0;
+}
