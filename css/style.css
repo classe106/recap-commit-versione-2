@@ -70,3 +70,13 @@ header {
 .btn-empty a {
     color: #c4cbd0;
 }
+
+.tasks {
+    padding: 20px 50px;
+}
+
+li {
+    list-style: none;
+    padding: 10px 0;
+    color: #434851;
+}
