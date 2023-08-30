@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header style */
+header {
+    height: 70px;
+    padding: 10px 20px;
+    margin-bottom: 40px;
+    background-color: white;
+}
+
+#logo {
+    height: 100%;
+    vertical-align: middle;
+}
+
+#logo-text {
+    font-size: 38px;
+    font-weight: 900;
+    vertical-align: middle;
+}
