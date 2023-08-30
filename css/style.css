@@ -112,3 +112,23 @@ li .circle.checked::before {
 .tag-type-1 {
     background-color: #09a9ed;
 }
+
+.tag-type-2 {
+    background-color: #ab5de6;
+}
+
+.tag-type-3 {
+    background-color: #2cc6ab;
+}
+
+.tag-type-4 {
+    background-color: #ff9b00;
+}
+
+.tag-type-5 {
+    background-color: #ec4a9d;
+}
+
+.tag-type-6 {
+    background-color: #a3d116;
+}
