@@ -96,6 +96,12 @@ li .circle::before {
     text-align: center;
 }
 
+li .circle.checked::before {
+    content: '\2713';
+    border: 1px solid #2cc6ab;
+    color: #2cc6ab;
+}
+
 .tag {
     padding: 5px 10px;
     border-radius: 10px;
